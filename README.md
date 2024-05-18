@@ -57,7 +57,7 @@ streamlit run status_app.py
 Deploy a streamlit app
 
 ```
-https://education-institut-portfolio-lia.streamlit.app/
+https://edutech-portfolio-lia.streamlit.app/
 ```
 
 ## Conclusion
